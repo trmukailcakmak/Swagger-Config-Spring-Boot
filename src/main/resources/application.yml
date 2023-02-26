@@ -1,0 +1,8 @@
+app:
+  name: Abcsepeti Interface - Swagger and Profiles Tutorial
+server:
+  port: 8080
+
+
+spring:
+  profile-testing-key: abcsepetiinterface - no profiles set  .
